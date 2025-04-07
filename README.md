@@ -25,4 +25,4 @@ A página Alura Books apresenta uma seleção de livros recomendados pela Alura,
 
 # Como visualizar o projeto
 
-Você pode visualizar o projeto online através do [GitHub Pages](https://vinicius-rodrigue-adriano.github.io/alura-books/)
+Você pode visualizar o projeto online através do [GitHub Pages](https://vinicius-rodrigues-adriano.github.io/alura-books/)
